@@ -2,7 +2,7 @@
 
 ## DEPLOY
 
-https://animations-pearl.vercel.app/
+[Animations](https://animations-pearl.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
